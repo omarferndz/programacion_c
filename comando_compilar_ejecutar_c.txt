@@ -1,0 +1,2 @@
+gcc nombre_archivo.c -o nombre_archivo
+./nombre_archivo
